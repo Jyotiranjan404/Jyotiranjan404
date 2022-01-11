@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jyotiranjan padhi
+- 👋 Hi, My name is Jyotiranjan Padhi
 - 👀 I’m a Data scientist
 
 
